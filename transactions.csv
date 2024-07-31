@@ -1,0 +1,98 @@
+Date,Type,Product type,Product name,Product ID,units,Total
+ 2024-07-22,Sell,ETF,Vanguard Diversified High Growth Index ETF,VGS,7,-876.19
+ 2024-07-22,Sell,ETF,Vanguard Diversified High Growth Index ETF,VAS,9,-886.05
+ 2024-07-22,Sell,ETF,Vanguard Diversified High Growth Index ETF,VDHG,1,-64.7
+ 2024-07-22,Buy,ETF,Vanguard Diversified High Growth Index ETF,VDHG,1,-64.7
+ 2024-07-22,Buy,ETF,Vanguard Diversified High Growth Index ETF,VDHG,1,-64.7
+ 2024-07-18,Deposit,Cash account,BPAY DEPOSIT CBA202407170541999462,Cash,,1400
+ 2024-07-18,Buy,ETF,Vanguard MSCI Index International Shares ETF,VGS,12,-1502.04
+ 2024-07-18,Buy,ETF,Vanguard Australian Shares Index ETF,VAS,1,-99.49
+ 2024-07-17,Distribution,Share,Vanguard Australian Shares Index ETF,,,167.36
+ 2024-07-17,Distribution,Share,Vanguard MSCI Index International Shares ETF,,,453.7
+ 2024-07-17,Distribution,Share,Vanguard Diversified High Growth Index ETF,,,26.38
+ 2024-07-17,Buy,ETF,Vanguard MSCI Index International Shares ETF,VGS,3,-378.69
+ 2024-06-17,Buy,ETF,Vanguard Diversified High Growth Index ETF,VDHG,25,-1610
+ 2024-06-15,Deposit,Cash account,BPAY DEPOSIT CBA202406140443065368,Cash,,1500
+ 2024-05-21,Buy,ETF,Vanguard MSCI Index International Shares ETF,VGS,12,-1483.25
+ 2024-05-21,Buy,ETF,Vanguard Australian Shares Index ETF,VAS,10,-977.41
+ 2024-05-15,Deposit,Cash account,Deposit for investment purchases,Cash,,2500
+ 2024-04-18,Distribution,Share,Vanguard Australian Shares Index ETF,,,192.48
+ 2024-04-18,Distribution,Share,Vanguard MSCI Index International Shares ETF,,,180.52
+ 2024-04-18,Buy,ETF,Vanguard MSCI Index International Shares ETF,VGS,15,-1810.65
+ 2024-04-18,Buy,ETF,Vanguard Australian Shares Index ETF,VAS,11,-1043.68
+ 2024-04-18,Buy,ETF,Vanguard Australian Shares Index ETF,VAS,1,-94.85
+ 2024-04-18,Buy,ETF,Vanguard MSCI Index International Shares ETF,VGS,1,-120.68
+ 2024-04-15,Deposit,Cash account,Deposit for investment purchases,Cash,,2500
+ 2024-03-21,Buy,ETF,Vanguard MSCI Index International Shares ETF,VGS,11,-1360.8
+ 2024-03-21,Buy,ETF,Vanguard Australian Shares Index ETF,VAS,9,-873.59
+ 2024-03-15,Deposit,Cash account,Deposit for investment purchases,Cash,,2500
+ 2024-02-20,Deposit,Cash account,BPAY DEPOSIT CBA202402180749748768,Cash,,10000
+ 2024-02-20,Buy,ETF,Vanguard Australian Shares Index ETF,VAS,43,-4072.1
+ 2024-02-20,Buy,ETF,Vanguard MSCI Index International Shares ETF,VGS,50,-5965
+ 2024-02-14,Deposit,Cash account,BPAY DEPOSIT CBA202402130147997536,Cash,,10000
+ 2024-02-14,Deposit,Cash account,Off-System BSB Direct Entry Deposit - 1,Cash,,1
+ 2024-02-14,Buy,ETF,Vanguard Australian Shares Index ETF,VAS,108,-10028.35
+ 2024-01-18,Distribution,Share,Vanguard Australian Shares Index ETF,,,47.98
+ 2024-01-18,Distribution,Share,Vanguard MSCI Index International Shares ETF,,,65.81
+ 2023-11-16,Withdrawal,Cash account,One-off Cash Withdrawal to 10614841 on 15-Nov-2023,Cash,,-511.91
+ 2023-10-18,Distribution,Share,Vanguard MSCI Index International Shares ETF,,,79.96
+ 2023-10-18,Distribution,Share,Vanguard Australian Shares Index ETF,,,86.31
+ 2023-07-19,Distribution,Share,Vanguard Australian Shares Index ETF,,,59.57
+ 2023-07-19,Distribution,Share,Vanguard MSCI Index International Shares ETF,,,132.87
+ 2023-07-04,Interest,Cash account,Cash Account Interest,Cash,,0.39
+ 2023-06-02,Interest,Cash account,Cash Account Interest,Cash,,0.39
+ 2023-05-02,Interest,Cash account,Cash Account Interest,Cash,,0.24
+ 2023-04-21,Distribution,Share,Vanguard Australian Shares Index ETF,,,38.66
+ 2023-04-21,Distribution,Share,Vanguard MSCI Index International Shares ETF,,,26.68
+ 2023-04-04,Interest,Cash account,Cash Account Interest,Cash,,0.22
+ 2023-03-02,Interest,Cash account,Cash Account Interest,Cash,,0.18
+ 2023-02-02,Interest,Cash account,Cash Account Interest,Cash,,0.08
+ 2023-01-19,Distribution,Share,Vanguard MSCI Index International Shares ETF,,,36.11
+ 2023-01-19,Distribution,Share,Vanguard Australian Shares Index ETF,,,50.23
+ 2022-11-02,Interest,Cash account,Cash Account Interest,Cash,,0.02
+ 2022-10-21,Withdrawal,Cash account,One-off Cash Withdrawal to 10614841 on 20-Oct-2022,Cash,,-138.9
+ 2022-10-19,Distribution,Share,Vanguard Australian Shares Index ETF,,,97.19
+ 2022-10-19,Distribution,Share,Vanguard MSCI Index International Shares ETF,,,41.45
+ 2022-08-02,Interest,Cash account,Cash Account Interest,Cash,,0.26
+ 2022-07-26,Withdrawal,Cash account,One-off Cash Withdrawal to 10614841 on 25-Jul-2022,Cash,,-428.89
+ 2022-07-19,Distribution,Share,Vanguard MSCI Index International Shares ETF,,,65.25
+ 2022-07-19,Distribution,Share,Vanguard Australian Shares Index ETF,,,144.69
+ 2022-07-02,Interest,Cash account,Cash Account Interest,Cash,,0.16
+ 2022-06-02,Interest,Cash account,Cash Account Interest,Cash,,0.09
+ 2022-05-03,Interest,Cash account,Cash Account Interest,Cash,,0.02
+ 2022-04-21,Distribution,Share,Vanguard MSCI Index International Shares ETF,,,48.52
+ 2022-04-21,Distribution,Share,Vanguard Australian Shares Index ETF,,,133.72
+ 2022-04-02,Interest,Cash account,Cash Account Interest,Cash,,0.01
+ 2022-03-02,Interest,Cash account,Cash Account Interest,Cash,,0.18
+ 2022-02-11,Deposit,Cash account,BPAY DEPOSIT CBA202202100142938723,Cash,,1600
+ 2022-02-11,Buy,ETF,Vanguard MSCI Index International Shares ETF,VGS,43,-4412.23
+ 2022-02-11,Fees,Cash account,Australian Equity Transaction fee for Vanguard MSCI Index International Shares ETF Buy,Cash,,-9
+ 2022-02-10,Deposit,Cash account,BPAY DEPOSIT CBA202202090142577762,Cash,,2600
+ 2022-02-02,Interest,Cash account,Cash Account Interest,Cash,,0.11
+ 2022-01-21,Distribution,Share,Vanguard Australian Shares Index ETF,,,46.67
+ 2022-01-20,Distribution,Share,Vanguard MSCI Index International Shares ETF,,,22.42
+ 2022-01-06,Buy,ETF,Vanguard MSCI Index International Shares ETF,VGS,24,-2536.32
+ 2022-01-06,Fees,Cash account,Australian Equity Transaction fee for Vanguard MSCI Index International Shares ETF Buy,Cash,,-9
+ 2022-01-05,Interest,Cash account,Cash Account Interest,Cash,,0.13
+ 2022-01-05,Deposit,Cash account,BPAY DEPOSIT CBA202201020142551811,Cash,,2600
+ 2021-12-17,Deposit,Cash account,BPAY DEPOSIT CBA202112160148379200,Cash,,2600
+ 2021-12-17,Buy,ETF,Vanguard MSCI Index International Shares ETF,VGS,24,-2540.16
+ 2021-12-17,Fees,Cash account,Australian Equity Transaction fee for Vanguard MSCI Index International Shares ETF Buy,Cash,,-9
+ 2021-12-07,Deposit,Cash account,BPAY DEPOSIT CBA202112040145306900,Cash,,2500
+ 2021-12-07,Buy,ETF,Vanguard MSCI Index International Shares ETF,VGS,23,-2444.9
+ 2021-12-07,Fees,Cash account,Australian Equity Transaction fee for Vanguard MSCI Index International Shares ETF Buy,Cash,,-9
+ 2021-12-02,Interest,Cash account,Cash Account Interest,Cash,,0.1
+ 2021-11-30,Deposit,Cash account,BPAY DEPOSIT CBA202111270443199311,Cash,,2700
+ 2021-11-30,Buy,ETF,Vanguard Australian Shares Index ETF,VAS,30,-2817.3
+ 2021-11-30,Fees,Cash account,Australian Equity Transaction fee for Vanguard Australian Shares Index ETF Buy,Cash,,-9
+ 2021-11-08,Buy,ETF,Vanguard Australian Shares Index ETF,VAS,21,-2011.38
+ 2021-11-08,Fees,Cash account,Australian Equity Transaction fee for Vanguard Australian Shares Index ETF Buy,Cash,,-9
+ 2021-11-06,Deposit,Cash account,BPAY DEPOSIT CBA202111050246869665,Cash,,2050
+ 2021-11-02,Interest,Cash account,Cash Account Interest,Cash,,0.02
+ 2021-11-02,Deposit,Cash account,BPAY DEPOSIT CBA202110310145221665,Cash,,1600
+ 2021-11-02,Buy,ETF,Vanguard Australian Shares Index ETF,VAS,16,-1505.76
+ 2021-11-02,Fees,Cash account,Australian Equity Transaction fee for Vanguard Australian Shares Index ETF Buy,Cash,,-9
+ 2021-10-27,Buy,ETF,Vanguard MSCI Index International Shares ETF,VGS,5,-503.15
+ 2021-10-27,Fees,Cash account,Australian Equity Transaction fee for Vanguard MSCI Index International Shares ETF Buy,Cash,,-9
+ 2021-10-26,Deposit,Cash account,BPAY DEPOSIT CBA202110250643487856,Cash,,60
+ 2021-10-23,Deposit,Cash account,BPAY DEPOSIT CBA202110220743004970,Cash,,500
