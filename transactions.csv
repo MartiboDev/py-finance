@@ -1,8 +1,4 @@
 Date,Type,Product type,Product name,Product ID,units,Total
- 2024-07-22,Sell,ETF,Vanguard Diversified High Growth Index ETF,VGS,7,-876.19
- 2024-07-22,Sell,ETF,Vanguard Diversified High Growth Index ETF,VAS,9,-886.05
- 2024-07-22,Sell,ETF,Vanguard Diversified High Growth Index ETF,VDHG,1,-64.7
- 2024-07-22,Buy,ETF,Vanguard Diversified High Growth Index ETF,VDHG,1,-64.7
  2024-07-22,Buy,ETF,Vanguard Diversified High Growth Index ETF,VDHG,1,-64.7
  2024-07-18,Deposit,Cash account,BPAY DEPOSIT CBA202407170541999462,Cash,,1400
  2024-07-18,Buy,ETF,Vanguard MSCI Index International Shares ETF,VGS,12,-1502.04
